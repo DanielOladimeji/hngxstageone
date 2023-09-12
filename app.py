@@ -24,9 +24,9 @@ def get_info():
         'slack_name': 'Oladimeji Daniel',
         'current_day': current_day,
         'utc_time': current_time,
-        'track': backend,
+        'track': 'backend',
         'github_file_url': 'https://github.com/DanielOladimeji/hngxstageone.git',
-        'github_repo_url': 'https://github.com/DanielOladimeji/hngxstageone/repo/blob/main/api.ext',
+        'github_repo_url': 'https://github.com/DanielOladimeji/hngxstageone/repo/blob/main/api.py',
         'status_code': 200
     }
 
